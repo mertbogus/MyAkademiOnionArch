@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Onion.Persistence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e4a86be5224e016def4ea33e822735bc8029f94")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72743d29600a24337b65f6283c14f8efcb1a7916")]
 [assembly: System.Reflection.AssemblyProductAttribute("Onion.Persistence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Onion.Persistence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
