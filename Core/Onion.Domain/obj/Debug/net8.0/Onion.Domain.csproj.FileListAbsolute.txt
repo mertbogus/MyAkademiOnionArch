@@ -1,0 +1,12 @@
+C:\Users\MERT\source\repos\MyAkademiOnionArch\Core\Onion.Domain\bin\Debug\net8.0\Onion.Domain.deps.json
+C:\Users\MERT\source\repos\MyAkademiOnionArch\Core\Onion.Domain\bin\Debug\net8.0\Onion.Domain.dll
+C:\Users\MERT\source\repos\MyAkademiOnionArch\Core\Onion.Domain\bin\Debug\net8.0\Onion.Domain.pdb
+C:\Users\MERT\source\repos\MyAkademiOnionArch\Core\Onion.Domain\obj\Debug\net8.0\Onion.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MERT\source\repos\MyAkademiOnionArch\Core\Onion.Domain\obj\Debug\net8.0\Onion.Domain.AssemblyInfoInputs.cache
+C:\Users\MERT\source\repos\MyAkademiOnionArch\Core\Onion.Domain\obj\Debug\net8.0\Onion.Domain.AssemblyInfo.cs
+C:\Users\MERT\source\repos\MyAkademiOnionArch\Core\Onion.Domain\obj\Debug\net8.0\Onion.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MERT\source\repos\MyAkademiOnionArch\Core\Onion.Domain\obj\Debug\net8.0\Onion.Domain.sourcelink.json
+C:\Users\MERT\source\repos\MyAkademiOnionArch\Core\Onion.Domain\obj\Debug\net8.0\Onion.Domain.dll
+C:\Users\MERT\source\repos\MyAkademiOnionArch\Core\Onion.Domain\obj\Debug\net8.0\refint\Onion.Domain.dll
+C:\Users\MERT\source\repos\MyAkademiOnionArch\Core\Onion.Domain\obj\Debug\net8.0\Onion.Domain.pdb
+C:\Users\MERT\source\repos\MyAkademiOnionArch\Core\Onion.Domain\obj\Debug\net8.0\ref\Onion.Domain.dll

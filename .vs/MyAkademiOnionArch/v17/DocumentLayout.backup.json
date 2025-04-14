@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MERT\\source\\repos\\MyAkademiOnionArch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E02876F-2541-4FD7-BF38-565B38B4AEA8}|Onion.API\\Onion.API.csproj|c:\\users\\mert\\source\\repos\\myakademionionarch\\onion.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E02876F-2541-4FD7-BF38-565B38B4AEA8}|Onion.API\\Onion.API.csproj|solutionrelative:onion.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE8841B-3F51-4F50-8340-8BB560D26DE0}|Core\\Onion.Application\\Onion.Application.csproj|c:\\users\\mert\\source\\repos\\myakademionionarch\\core\\onion.application\\features\\cqrs\\handlers\\getcategorybyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE8841B-3F51-4F50-8340-8BB560D26DE0}|Core\\Onion.Application\\Onion.Application.csproj|solutionrelative:core\\onion.application\\features\\cqrs\\handlers\\getcategorybyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 300,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetCategoryByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\MyAkademiOnionArch\\Core\\Onion.Application\\Features\\CQRS\\Handlers\\GetCategoryByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Onion.Application\\Features\\CQRS\\Handlers\\GetCategoryByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\MERT\\source\\repos\\MyAkademiOnionArch\\Core\\Onion.Application\\Features\\CQRS\\Handlers\\GetCategoryByIdQueryHandler.cs",
+              "RelativeToolTip": "Core\\Onion.Application\\Features\\CQRS\\Handlers\\GetCategoryByIdQueryHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAawBgAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T00:25:14.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\MyAkademiOnionArch\\Onion.API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Onion.API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\MERT\\source\\repos\\MyAkademiOnionArch\\Onion.API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Onion.API\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T00:17:11.727Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 100,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
