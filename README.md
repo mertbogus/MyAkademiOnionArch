@@ -30,15 +30,6 @@ Projemiz aynı zamanda katmanlı mimaride daha sürdürülebilir ve test edilebi
 
 ![Ekran görüntüsü 2025-04-16 054509](https://github.com/user-attachments/assets/a08638dc-cbeb-41be-b984-2891f68d8f34)
 
-MyAkademiOnionArch/
-│
-├── MyAkademiOnionArch.API            → API katmanı (giriş noktası)
-├── MyAkademiOnionArch.Application    → CQRS işlemleri, handler'lar, DTO'lar, business kuralları
-├── MyAkademiOnionArch.Domain         → Temel domain modelleri ve entityler
-├── MyAkademiOnionArch.Infrastructure → Dış kaynaklar için kullanılıyor. 
-├── MyAkademiOnionArch.Persistence    → DbContext, Repository, konfigürasyonlar
-
-
 ## 🧠Öğrenilen Konular
 
 + CQRS ile sorguların (Query) ve komutların (Command) ayrılması
