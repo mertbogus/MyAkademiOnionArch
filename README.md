@@ -28,6 +28,8 @@ Projemiz aynı zamanda katmanlı mimaride daha sürdürülebilir ve test edilebi
 
 ## 📂 Proje Yapısı (Onion Architecture)
 
+![Ekran görüntüsü 2025-04-16 054509](https://github.com/user-attachments/assets/a08638dc-cbeb-41be-b984-2891f68d8f34)
+
 MyAkademiOnionArch/
 │
 ├── MyAkademiOnionArch.API            → API katmanı (giriş noktası)
@@ -48,3 +50,6 @@ MyAkademiOnionArch/
 + Repository Pattern ile veri erişiminin soyutlanması
 
 + Unit of Work ile işlemlerin tek bir noktadan yönetimi
+
+  
+![Ekran görüntüsü 2025-04-16 054531](https://github.com/user-attachments/assets/c67a3a45-c002-4e85-b2f1-6954f1f17b79)
