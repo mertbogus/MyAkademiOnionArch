@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\MERT\\source\\repos\\MyAkademiOnionArch\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E02876F-2541-4FD7-BF38-565B38B4AEA8}|Onion.API\\Onion.API.csproj|c:\\users\\mert\\source\\repos\\myakademionionarch\\onion.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E02876F-2541-4FD7-BF38-565B38B4AEA8}|Onion.API\\Onion.API.csproj|solutionrelative:onion.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E02876F-2541-4FD7-BF38-565B38B4AEA8}|Onion.API\\Onion.API.csproj|c:\\users\\mert\\source\\repos\\myakademionionarch\\onion.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E02876F-2541-4FD7-BF38-565B38B4AEA8}|Onion.API\\Onion.API.csproj|solutionrelative:onion.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE8841B-3F51-4F50-8340-8BB560D26DE0}|Core\\Onion.Application\\Onion.Application.csproj|c:\\users\\mert\\source\\repos\\myakademionionarch\\core\\onion.application\\features\\mediator\\handlers\\removeproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE8841B-3F51-4F50-8340-8BB560D26DE0}|Core\\Onion.Application\\Onion.Application.csproj|solutionrelative:core\\onion.application\\features\\mediator\\handlers\\removeproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE8841B-3F51-4F50-8340-8BB560D26DE0}|Core\\Onion.Application\\Onion.Application.csproj|c:\\users\\mert\\source\\repos\\myakademionionarch\\core\\onion.application\\features\\mediator\\commands\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE8841B-3F51-4F50-8340-8BB560D26DE0}|Core\\Onion.Application\\Onion.Application.csproj|solutionrelative:core\\onion.application\\features\\mediator\\commands\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedHeight": 300,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RemoveProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\MyAkademiOnionArch\\Core\\Onion.Application\\Features\\Mediator\\Handlers\\RemoveProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Onion.Application\\Features\\Mediator\\Handlers\\RemoveProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\MERT\\source\\repos\\MyAkademiOnionArch\\Core\\Onion.Application\\Features\\Mediator\\Handlers\\RemoveProductCommandHandler.cs",
+              "RelativeToolTip": "Core\\Onion.Application\\Features\\Mediator\\Handlers\\RemoveProductCommandHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIAywB0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T02:27:59.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\MyAkademiOnionArch\\Core\\Onion.Application\\Features\\Mediator\\Commands\\CreateProductCommand.cs",
+              "RelativeDocumentMoniker": "Core\\Onion.Application\\Features\\Mediator\\Commands\\CreateProductCommand.cs",
+              "ToolTip": "C:\\Users\\MERT\\source\\repos\\MyAkademiOnionArch\\Core\\Onion.Application\\Features\\Mediator\\Commands\\CreateProductCommand.cs",
+              "RelativeToolTip": "Core\\Onion.Application\\Features\\Mediator\\Commands\\CreateProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T02:26:58.186Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -43,14 +77,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\MyAkademiOnionArch\\Onion.API\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "Onion.API\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\MERT\\source\\repos\\MyAkademiOnionArch\\Onion.API\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "Onion.API\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAMwDkAAAAbAAAAAAAAAA==",
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\MyAkademiOnionArch\\Onion.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Onion.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\MERT\\source\\repos\\MyAkademiOnionArch\\Onion.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Onion.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowEkAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T00:17:11.727Z",
+              "WhenOpened": "2025-04-16T02:22:28.747Z",
               "EditorCaption": ""
             }
           ]

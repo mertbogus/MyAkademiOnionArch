@@ -153,3 +153,5 @@ C:\Users\MERT\source\repos\MyAkademiOnionArch\Onion.API\obj\Debug\net8.0\Onion.A
 C:\Users\MERT\source\repos\MyAkademiOnionArch\Onion.API\obj\Debug\net8.0\Onion.API.genruntimeconfig.cache
 C:\Users\MERT\source\repos\MyAkademiOnionArch\Onion.API\obj\Debug\net8.0\ref\Onion.API.dll
 C:\Users\MERT\source\repos\MyAkademiOnionArch\Onion.API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\MERT\source\repos\MyAkademiOnionArch\Onion.API\bin\Debug\net8.0\MediatR.dll
+C:\Users\MERT\source\repos\MyAkademiOnionArch\Onion.API\bin\Debug\net8.0\MediatR.Contracts.dll
